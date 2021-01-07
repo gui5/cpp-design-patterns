@@ -3,7 +3,7 @@
 /*
     A Class should have a primary resposiblity and not change other things
 
-    -> Separartion of concerns
+    -> Separation of concerns
 
 */
 
